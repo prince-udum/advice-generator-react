@@ -36,7 +36,7 @@ const App = () => {
       <main>
         <div class="card">
           <p class="advice-count">
-            Advice # <span id="count"></span>
+            Advice #<span id="count">{count}</span>
           </p>
           {loading ? (
             <div className="loading"></div>
