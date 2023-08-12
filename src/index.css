@@ -106,7 +106,7 @@ blockquote {
 .mobile-img {
   display: block;
   object-fit: cover;
-  /* width: 90%; */
+  width: 90%;
   margin: 0 auto;
 }
 
